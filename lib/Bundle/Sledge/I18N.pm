@@ -2,7 +2,7 @@ package Bundle::Sledge::I18N;
 
 use strict;
 use vars qw($VERSION);
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 1;
 __END__
@@ -16,6 +16,8 @@ Bundle::Sledge::I18N - Bundle to install Sledge I18N related modules
   perl -MCPAN -e 'install Bundle::Sledge::I18N'
 
 =head1 CONTENTS
+
+Sledge::Request::Apache::I18N
 
 Sledge::Pages::Apache::I18N
 
